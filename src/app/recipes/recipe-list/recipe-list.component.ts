@@ -13,6 +13,11 @@ export class RecipeListComponent implements OnInit {
       'A simple recipe',
       'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.foodista.com%2Fsites%2Fdefault%2Ffiles%2FShakshuka-Recipe-with-Red-Enchilada-Sauce-1.jpg&f=1&nofb=1'
     ),
+    new Recipe(
+      'A Test Recipe',
+      'A simple recipe',
+      'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.foodista.com%2Fsites%2Fdefault%2Ffiles%2FShakshuka-Recipe-with-Red-Enchilada-Sauce-1.jpg&f=1&nofb=1'
+    ),
   ];
 
   constructor() {}
